@@ -1,0 +1,153 @@
+#texto-1 h1 {
+	font-family: 'Dongle', sans-serif;
+	font-size : 30px;
+}
+
+#texto-2 h3 {
+	font-family: 'Dongle', sans-serif;
+	font-size : 30px;
+
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Dongle;
+}
+
+#barra-superior {
+	background-color: #4C956C;
+	height: 95px;
+	text-align: center;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
+
+
+}
+
+
+
+img {
+	margin: 20px;
+	text-align: center;
+}
+
+#container {
+	margin: 16px;
+	padding: 16px;
+}
+
+#texto-1 {
+	color: #595959;
+	
+}
+
+#texto-2 {
+	color: #4C956C;
+	
+}
+
+hr {
+	border-color: #FFC9B9;
+}
+
+
+#Menu01 {
+	position: sticky;
+	position: -webkit-sticky;
+	top: 85px;
+	margin: 0;
+	padding: 0;
+}
+
+
+#Menu {
+	background-color: #4C956C;
+	color: #FFFFFF;
+	list-style-type: none;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 90px;
+	text-align: center;
+}
+
+#Menu li {
+	display: inline-block;
+	width: 160px;
+	height: 65px;
+	background-color: #4C956C;
+	text-align: center;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 30px;
+	font-family: 'Dongle', sans-serif;
+	
+}
+
+#Menu li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	height: 50px;
+	line-height: 50px;
+	display: block;
+	position: sticky;
+	padding: 0;
+	margin: 0;
+	line-height: 80px;
+	transition: all 0.5s;
+	font-size: 35px;
+	
+	
+
+}
+
+#Menu li a:hover{
+	color: #2C6E49;
+	position: sticky;
+	
+}
+
+#Mural {
+	display: inline-block;
+
+}
+
+#Mural2 {
+	display: inline-block;
+}
+
+#Rodapé {
+	background-color: #F3AC96;
+	height: 250px;
+	text-align: center;
+	color: #DDD;
+}
+
+#Rodapé1 {
+	display: inline-block;
+	list-style-type: none;
+	color: #FFF;
+	position: sticky;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#Rodapé1 li {
+	display: inline-block;
+	color: #FFF;
+	text-align: center;
+	width: 160px;
+	height: 65px;
+	
+}
+
+#Rodapé1 li a {
+	color: #FFF;
+	height: 60px;
+	line-height: 60px;
+	font-family: 'Dongle', sans-serif;
+	font-size: 25px;
+
+}
+
