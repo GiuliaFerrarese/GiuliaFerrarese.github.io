@@ -1,6 +1,13 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
 #texto {
 	color: rgb(89 , 89 , 89);
-	família de fontes: 'Source Sans Pro', sans-serif;	
+	família da fonte: 'Lato', sans-serif;
+	família de fontes: 'PT Sans Narrow', sans-serif;	
 	font-size : 20px;	
 	margin:50px;
 }
@@ -16,7 +23,7 @@
 	position: sticky;
 	position: -webkit-sticky;
 	top: 0;
-	
+
 	}
 
 #Menu {
@@ -40,7 +47,8 @@
 	color: #FFFFFF;
 	display: block;
 	text-decoration: none;
-	família de fontes: 'Source Sans Pro', sans-serif;
+	família da fonte: 'Lato', sans-serif;
+	família de fontes: 'PT Sans Narrow', sans-serif;
 	font-size: 23px;
 	padding: 0;
 	margin: 0;
@@ -63,7 +71,8 @@
 	list-style-type: none;
 	color: white;
 	text-align: center;
-	família de fontes: 'Source Sans Pro', sans-serif;
+	família da fonte: 'Lato', sans-serif;
+	família de fontes: 'PT Sans Narrow', sans-serif;
 	font-size: 25px;
 }
 
