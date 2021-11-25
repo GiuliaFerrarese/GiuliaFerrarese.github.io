@@ -108,14 +108,6 @@ hr {
 	
 }
 
-#Mural {
-	display: inline-block;
-
-}
-
-#Mural2 {
-	display: inline-block;
-}
 
 #Rodapé {
 	background-color: #F3AC96;
@@ -151,15 +143,23 @@ hr {
 
 }
 
-.carousel-caption d-none d-md-block {
-	color: #DDD;
-	text: #DDD;
-	background-color: #DDD;
-
+.fotos_mural {
+    display:flex;
+    background: blue; 
 
 }
 
-h5 {
-	color: black;
-	background-color: #DCDCDC;
+.fotos {
+	width: 300px;
+	background: yellow;
+
+}
+
+.fotos img{
+	width: 100%;
+}
+
+.titulo {
+	background: red;
+	flex: auto;
 }
