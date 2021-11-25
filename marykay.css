@@ -10,6 +10,7 @@ body {
 	família de fontes: 'PT Sans Narrow', sans-serif;	
 	font-size : 20px;	
 	margin:50px;
+	text-align: center;
 }
 
 #texto a { color: rgb(243 , 172 , 150)
