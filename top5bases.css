@@ -1,14 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
 #texto {
 	color: rgb(89 , 89 , 89);
-	font-family: Dongle;	
-	font-size : 30px;	
+	font-family:'PT Sans Narrow', sans-serif;	
+	font-size : 20px;	
 	margin:50px;
 }
 
-#texto a { color: rgb(243 , 172 , 150)
+#texto a { color: rgb(243 , 172 , 150);
 }
 
-#texto h1 { color: rgb(243 , 172 , 150)
+#titulo { 
+	color: rgb(243 , 172 , 150);
+	font-size: 30px;
+	margin: 60px;
+
 }
 
 	
@@ -39,8 +51,8 @@
 	color: #FFFFFF;
 	display: block;
 	text-decoration: none;
-	font-family: 'Dongle', sans-serif;
-	font-size: 35px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 23px;
 	padding: 0;
 	margin: 0;
 	text-align: center;
@@ -62,8 +74,13 @@
 	list-style-type: none;
 	color: white;
 	text-align: center;
-	font-family: Dongle;
-	font-size: 35px;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-size: 23px;
+}
+
+#Rodape a {
+	text-decoration: none;
+	color: white;
 }
 
 #Footer ul li {
