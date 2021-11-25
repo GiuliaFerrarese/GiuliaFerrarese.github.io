@@ -151,3 +151,15 @@ hr {
 
 }
 
+.carousel-caption d-none d-md-block {
+	color: #DDD;
+	text: #DDD;
+	background-color: #DDD;
+
+
+}
+
+h5 {
+	color: black;
+	background-color: #DCDCDC;
+}
