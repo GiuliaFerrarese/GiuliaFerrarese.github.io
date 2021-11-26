@@ -145,13 +145,15 @@ hr {
 
 .fotos_mural {
     display:flex;
-    background: blue; 
+    background: #FFDACF; 
+    align-items: center;
 
 }
 
 .fotos {
 	width: 300px;
-	background: yellow;
+	background: #FFDACF;
+	flex: 1;
 
 }
 
@@ -160,6 +162,8 @@ hr {
 }
 
 .titulo {
-	background: red;
-	flex: auto;
+	background: #F3AC96;
+	min-width: 500px;
+	flex: 500px;
+
 }
