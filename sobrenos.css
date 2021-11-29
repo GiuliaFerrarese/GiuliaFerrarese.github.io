@@ -1,14 +1,16 @@
 #texto {
 	color: rgb(89 , 89 , 89);
-	font-family: Dongle;	
+	font-family:'PT Sans Narrow', sans-serif;	
 	font-size : 30px;	
 	margin:50px;
 }
 
-#texto a { color: rgb(243 , 172 , 150)
+#texto a { 
+	color: rgb(243 , 172 , 150)
 }
 
-#texto h1 { color: rgb(243 , 172 , 150)
+#texto h1 { 
+	color: rgb(243 , 172 , 150)
 }
 
 	
