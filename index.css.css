@@ -23,6 +23,7 @@ body {
 	position: -webkit-sticky;
 	top: 0;
 	z-index: 10;
+	font-family:'PT Sans Narrow', sans-serif;
 
 
 }
@@ -37,6 +38,7 @@ img {
 #container {
 	margin: 16px;
 	padding: 16px;
+	font-family:'PT Sans Narrow', sans-serif;
 }
 
 #texto-1 {
@@ -51,6 +53,7 @@ img {
 
 hr {
 	border-color: #FFC9B9;
+	font-family:'PT Sans Narrow', sans-serif;
 }
 
 
@@ -61,6 +64,7 @@ hr {
 	margin-left: -32px;
 	margin-right: -32px;
 	padding: 0;
+	font-family:'PT Sans Narrow', sans-serif;
 }
 
 
@@ -74,6 +78,7 @@ hr {
 	text-align: center;
 	margin: 0;
 	padding: 0;
+	font-family:'PT Sans Narrow', sans-serif;
 }
 
 #Menu li {
@@ -101,6 +106,7 @@ hr {
 	line-height: 80px;
 	transition: all 0.5s;
 	font-size: 23px;
+	font-family:'PT Sans Narrow', sans-serif;
 	
 	
 
@@ -109,15 +115,17 @@ hr {
 #Menu li a:hover{
 	color: #2C6E49;
 	position: sticky;
+	font-family:'PT Sans Narrow', sans-serif;
 	
 }
 
 
-#Rodapé {
+#Rodape {
 	background-color: #F3AC96;
 	height: 250px;
 	text-align: center;
 	color: #DDD;
+	font-family:'PT Sans Narrow', sans-serif;
 }
 
 #Rodape1 {
@@ -127,6 +135,7 @@ hr {
 	position: sticky;
 	text-decoration: none;
 	list-style-type: none;
+	font-family:'PT Sans Narrow', sans-serif;
 }
 
 #Rodape1 li {
@@ -135,6 +144,7 @@ hr {
 	text-align: center;
 	width: 160px;
 	height: 65px;
+	font-family:'PT Sans Narrow', sans-serif;
 	
 }
 
@@ -144,6 +154,7 @@ hr {
 	line-height: 60px;
 	font-family:'PT Sans Narrow', sans-serif;
 	font-size: 27px;
+	font-family:'PT Sans Narrow', sans-serif;
 
 }
 
@@ -169,5 +180,6 @@ hr {
 	background: #F3AC96;
 	min-width: 500px;
 	flex: 500px;
+	font-family:'PT Sans Narrow', sans-serif;
 
 }
