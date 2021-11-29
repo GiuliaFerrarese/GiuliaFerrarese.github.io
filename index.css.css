@@ -116,47 +116,7 @@ hr {
 	color: #2C6E49;
 	position: sticky;
 	font-family:'PT Sans Narrow', sans-serif;
-	
-}
 
-
-#Rodape {
-	background-color: #F3AC96;
-	height: 250px;
-	text-align: center;
-	color: #DDD;
-	font-family:'PT Sans Narrow', sans-serif;
-}
-
-#Rodape1 {
-	display: inline-block;
-	list-style-type: none;
-	color: #FFF;
-	position: sticky;
-	text-decoration: none;
-	list-style-type: none;
-	font-family:'PT Sans Narrow', sans-serif;
-}
-
-#Rodape1 li {
-	display: inline-block;
-	color: #FFF;
-	text-align: center;
-	width: 160px;
-	height: 65px;
-	font-family:'PT Sans Narrow', sans-serif;
-	
-}
-
-#Rodape1 li a {
-	color: #FFF;
-	height: 60px;
-	line-height: 60px;
-	font-family:'PT Sans Narrow', sans-serif;
-	font-size: 27px;
-	font-family:'PT Sans Narrow', sans-serif;
-
-}
 
 .fotos_mural {
     display:flex;
@@ -182,4 +142,30 @@ hr {
 	flex: 500px;
 	font-family:'PT Sans Narrow', sans-serif;
 
+}
+	
+#Rodape {
+	background-color: #F3AC96;
+	height: 200px;
+	text-align: center;
+	color: white;
+	display: block;
+	list-style-type: none;
+	color: white;
+	text-align: center;
+	font-family:'PT Sans Narrow', sans-serif;
+	font-size: 23px;
+}
+
+#Rodape a {
+	text-decoration: none;
+	color: white;
+}
+
+
+#Footer ul li {
+	display: inline-block;
+	width: 400px;
+	height: 40px;
+	text-align: center;
 }
