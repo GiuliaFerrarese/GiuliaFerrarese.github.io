@@ -120,7 +120,7 @@ hr {
 	color: #DDD;
 }
 
-#Rodapé1 {
+#Rodape1 {
 	display: inline-block;
 	list-style-type: none;
 	color: #FFF;
@@ -129,7 +129,7 @@ hr {
 	list-style-type: none;
 }
 
-#Rodapé1 li {
+#Rodape1 li {
 	display: inline-block;
 	color: #FFF;
 	text-align: center;
@@ -138,7 +138,7 @@ hr {
 	
 }
 
-#Rodapé1 li a {
+#Rodape1 li a {
 	color: #FFF;
 	height: 60px;
 	line-height: 60px;
