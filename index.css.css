@@ -24,11 +24,34 @@ body {
 	top: 0;
 	z-index: 10;
 	font-family:'PT Sans Narrow', sans-serif;
+}
 
+	
+#Rodape {
+	background-color: #F3AC96;
+	height: 200px;
+	text-align: center;
+	color: white;
+	display: block;
+	list-style-type: none;
+	color: white;
+	text-align: center;
+	font-family:'PT Sans Narrow', sans-serif;
+	font-size: 23px;
+}
 
+#Rodape a {
+	text-decoration: none;
+	color: white;
 }
 
 
+#Footer ul li {
+	display: inline-block;
+	width: 400px;
+	height: 40px;
+	text-align: center;
+}
 
 img {
 	margin: 20px;
@@ -142,30 +165,4 @@ hr {
 	flex: 500px;
 	font-family:'PT Sans Narrow', sans-serif;
 
-}
-	
-#Rodape {
-	background-color: #F3AC96;
-	height: 200px;
-	text-align: center;
-	color: white;
-	display: block;
-	list-style-type: none;
-	color: white;
-	text-align: center;
-	font-family:'PT Sans Narrow', sans-serif;
-	font-size: 23px;
-}
-
-#Rodape a {
-	text-decoration: none;
-	color: white;
-}
-
-
-#Footer ul li {
-	display: inline-block;
-	width: 400px;
-	height: 40px;
-	text-align: center;
 }
