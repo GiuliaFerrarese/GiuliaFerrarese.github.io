@@ -18,7 +18,7 @@
 
 
 #texto-1 {
-	font-family: 'Dongle', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size : 30px;
 }
 
@@ -104,6 +104,7 @@ hr {
 	position: -webkit-sticky;
 	top: 30px;
 	font-family: 'Work Sans', sans-serif;
+	font-size: 15px;
 	
 }
 
@@ -118,7 +119,7 @@ hr {
 	margin: 0;
 	line-height: 80px;
 	transition: all 0.5s;
-	font-size: 35px;
+	font-size: 15px;
 	
 	
 
@@ -161,7 +162,7 @@ hr {
 	height: 60px;
 	line-height: 60px;
 	font-family: 'Work Sans', sans-serif;
-	font-size: 25px;
+	font-size: 15px;
 
 }
 
