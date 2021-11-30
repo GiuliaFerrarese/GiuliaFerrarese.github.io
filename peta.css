@@ -76,6 +76,11 @@ body {
 	font-size: 23px;
 }
 
+#Rodape a {
+text-decoration: none;
+color: white;
+}
+
 #Footer ul li {
 	display: inline-block;
 	width: 400px;
