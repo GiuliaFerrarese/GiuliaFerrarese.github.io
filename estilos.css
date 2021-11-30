@@ -5,7 +5,7 @@ body {
 
 #texto {
 	color: rgb(89 , 89 , 89);
-	font-family:'PT Sans Narrow', sans-serif;	
+	font-family: 'Work Sans', sans-serif;;	
 	font-size : 20px;	
 	margin:50px;
 }
@@ -48,7 +48,7 @@ body {
 	color: #FFFFFF;
 	display: block;
 	text-decoration: none;
-	font-family:'PT Sans Narrow', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 23px;
 	padding: 0;
 	margin: 0;
@@ -71,7 +71,7 @@ body {
 	list-style-type: none;
 	color: white;
 	text-align: center;
-	font-family:'PT Sans Narrow', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 23px;
 }
 
@@ -84,6 +84,7 @@ body {
 	display: inline-block;
 	width: 400px;
 	height: 40px;
+	font-family: 'Work Sans', sans-serif;
 	text-align: center;
 }
 
