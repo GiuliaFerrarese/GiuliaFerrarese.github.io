@@ -70,7 +70,12 @@ body {
 	color: white;
 	text-align: center;
 	font-family: 'Work Sans', sans-serif;
-	font-size: 35px;
+	font-size: 25px;
+}
+
+#Rodape a {
+text-decoration: none;
+color: white;
 }
 
 #Footer ul li {
