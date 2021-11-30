@@ -5,8 +5,6 @@
 }
 
 
-
-
 .card-mb-3 {
 	margin: 40px;
 
@@ -15,6 +13,7 @@
 .card-text-0 a {
 	color: green;
 	text-decoration: none;
+	font-family: 'Work Sans', sans-serif;
 }
 
 
@@ -24,7 +23,7 @@
 }
 
 #texto-2 {
-	font-family: 'Dongle', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size : 30px;
 
 }
@@ -32,7 +31,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Dongle', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 }
 
 #barra-superior {
@@ -57,6 +56,7 @@ img {
 #container {
 	margin: 16px;
 	padding: 16px;
+	font-family: 'Work Sans', sans-serif;
 }
 
 #texto-1 {
@@ -103,7 +103,7 @@ hr {
 	position: sticky;
 	position: -webkit-sticky;
 	top: 30px;
-	font-family: 'Dongle', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	
 }
 
@@ -131,14 +131,14 @@ hr {
 }
 
 
-#Rodapé {
+#Rodape {
 	background-color: #F3AC96;
 	height: 250px;
 	text-align: center;
 	color: #DDD;
 }
 
-#Rodapé1 {
+#Rodape1 {
 	display: inline-block;
 	list-style-type: none;
 	color: #FFF;
@@ -147,7 +147,7 @@ hr {
 	list-style-type: none;
 }
 
-#Rodapé1 li {
+#Rodape1 li {
 	display: inline-block;
 	color: #FFF;
 	text-align: center;
@@ -156,11 +156,11 @@ hr {
 	
 }
 
-#Rodapé1 li a {
+#Rodape1 li a {
 	color: #FFF;
 	height: 60px;
 	line-height: 60px;
-	font-family: 'Dongle', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 25px;
 
 }
@@ -190,5 +190,6 @@ hr {
 	min-width: 500px;
 	flex: 500px;
 	border-radius: 10px 20px;
+	font-family: 'Work Sans', sans-serif;
 
 }
