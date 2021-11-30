@@ -1,10 +1,10 @@
 #texto-1 {
-	font-family:'PT Sans Narrow', sans-serif;
-	font-size : 35px;
+	font-family: 'Dongle', sans-serif;
+	font-size : 30px;
 }
 
 #texto-2 {
-	font-family:'PT Sans Narrow', sans-serif;
+	font-family: 'Dongle', sans-serif;
 	font-size : 30px;
 
 }
@@ -12,7 +12,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family:'PT Sans Narrow', sans-serif;
+	font-family: 'Dongle', sans-serif;
 }
 
 #barra-superior {
@@ -21,37 +21,13 @@ body {
 	text-align: center;
 	position: sticky;
 	position: -webkit-sticky;
-	top: 0;
+	top: 0; 
 	z-index: 10;
-	font-family:'PT Sans Narrow', sans-serif;
-}
 
-	
-#Rodape {
-	background-color: #F3AC96;
-	height: 200px;
-	text-align: center;
-	color: white;
-	display: block;
-	list-style-type: none;
-	color: white;
-	text-align: center;
-	font-family:'PT Sans Narrow', sans-serif;
-	font-size: 23px;
-}
 
-#Rodape a {
-	text-decoration: none;
-	color: white;
 }
 
 
-#Footer ul li {
-	display: inline-block;
-	width: 400px;
-	height: 40px;
-	text-align: center;
-}
 
 img {
 	margin: 20px;
@@ -61,7 +37,6 @@ img {
 #container {
 	margin: 16px;
 	padding: 16px;
-	font-family:'PT Sans Narrow', sans-serif;
 }
 
 #texto-1 {
@@ -76,7 +51,6 @@ img {
 
 hr {
 	border-color: #FFC9B9;
-	font-family:'PT Sans Narrow', sans-serif;
 }
 
 
@@ -84,10 +58,9 @@ hr {
 	position: sticky;
 	position: -webkit-sticky;
 	top: 85px;
-	margin-left: -32px;
+	margin-left:  -32px;
 	margin-right: -32px;
 	padding: 0;
-	font-family:'PT Sans Narrow', sans-serif;
 }
 
 
@@ -99,9 +72,6 @@ hr {
 	position: -webkit-sticky;
 	top: 90px;
 	text-align: center;
-	margin: 0;
-	padding: 0;
-	font-family:'PT Sans Narrow', sans-serif;
 }
 
 #Menu li {
@@ -113,7 +83,7 @@ hr {
 	position: sticky;
 	position: -webkit-sticky;
 	top: 30px;
-	font-family:'PT Sans Narrow', sans-serif;
+	font-family: 'Dongle', sans-serif;
 	
 }
 
@@ -128,8 +98,7 @@ hr {
 	margin: 0;
 	line-height: 80px;
 	transition: all 0.5s;
-	font-size: 23px;
-	font-family:'PT Sans Narrow', sans-serif;
+	font-size: 35px;
 	
 	
 
@@ -138,13 +107,49 @@ hr {
 #Menu li a:hover{
 	color: #2C6E49;
 	position: sticky;
-	font-family:'PT Sans Narrow', sans-serif;
+	
+}
 
+
+#Rodapé {
+	background-color: #F3AC96;
+	height: 250px;
+	text-align: center;
+	color: #DDD;
+}
+
+#Rodapé1 {
+	display: inline-block;
+	list-style-type: none;
+	color: #FFF;
+	position: sticky;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#Rodapé1 li {
+	display: inline-block;
+	color: #FFF;
+	text-align: center;
+	width: 160px;
+	height: 65px;
+	
+}
+
+#Rodapé1 li a {
+	color: #FFF;
+	height: 60px;
+	line-height: 60px;
+	font-family: 'Dongle', sans-serif;
+	font-size: 25px;
+
+}
 
 .fotos_mural {
     display:flex;
     background: #FFDACF; 
     align-items: center;
+    border-radius: 20px;
 
 }
 
@@ -152,6 +157,7 @@ hr {
 	width: 300px;
 	background: #FFDACF;
 	flex: 1;
+	border-radius: 20px;
 
 }
 
@@ -163,6 +169,6 @@ hr {
 	background: #F3AC96;
 	min-width: 500px;
 	flex: 500px;
-	font-family:'PT Sans Narrow', sans-serif;
+	border-radius: 10px 20px;
 
 }
