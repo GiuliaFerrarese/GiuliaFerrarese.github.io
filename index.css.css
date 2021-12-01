@@ -1,5 +1,5 @@
 .card-group {
-	z-index: 10;
+	z-index: 3;
 	
 
 }
@@ -41,7 +41,7 @@ body {
 	position: sticky;
 	position: -webkit-sticky;
 	top: 0; 
-	z-index: 10;
+	z-index: 1;
 
 
 }
@@ -81,6 +81,7 @@ hr {
 	margin-left:  -32px;
 	margin-right: -32px;
 	padding: 0;
+	z-index: 2;
 }
 
 
