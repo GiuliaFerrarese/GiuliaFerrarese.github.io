@@ -32,17 +32,11 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    background-color: burlywood;
+    background-color: #F3AC96;
 }
 
 nav a {
     margin: 0;
-}
-
-#logo {
-    width: 100px;
-    height: 50px;
-    margin-left: 100px;
 }
 
 a {
@@ -66,7 +60,7 @@ a {
 }
 
 h2 {
-    background-color: burlywood;
+    background-color: #F3AC96;
 }
 
 #Menu01 {
