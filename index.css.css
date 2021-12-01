@@ -57,7 +57,6 @@ img {
 	margin: 16px;
 	padding: 16px;
 	font-family: 'Work Sans', sans-serif;
-	font-color: rgb(89 , 89 , 89);
 }
 
 #texto-1 {
@@ -188,4 +187,9 @@ color: white;
 	border-radius: 10px 20px;
 	font-family: 'Work Sans', sans-serif;
 
+}
+
+.fontecarousel {
+	     font-family: 'Work Sans', sans-serif;
+	     color: rgb(89 , 89 , 89);
 }
