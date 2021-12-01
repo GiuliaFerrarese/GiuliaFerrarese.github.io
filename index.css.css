@@ -135,35 +135,29 @@ hr {
 
 #Rodape {
 	background-color: #F3AC96;
-	height: 250px;
+	height: 200px;
 	text-align: center;
-	color: #DDD;
-}
-
-#Rodape1 {
-	display: inline-block;
+	color: white;
+	display: block;
 	list-style-type: none;
-	color: #FFF;
-	position: sticky;
-	text-decoration: none;
-	list-style-type: none;
-}
-
-#Rodape1 li {
-	display: inline-block;
-	color: #FFF;
+	color: white;
 	text-align: center;
-	width: 160px;
-	height: 65px;
-	
-}
-
-#Rodape1 li a {
-	color: #FFF;
-	height: 100px;
-	line-height: 100px;
 	font-family: 'Work Sans', sans-serif;
-	font-size: 20x;
+	font-size: 25px;
+}
+
+#Rodape a {
+text-decoration: none;
+color: white;
+}
+
+#Footer ul li {
+	display: inline-block;
+	width: 400px;
+	height: 40px;
+	text-align: center;
+}
+
 
 }
 
