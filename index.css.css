@@ -203,3 +203,19 @@ hr {
 	     font-family: 'Work Sans', sans-serif;
 	     color: rgb(89 , 89 , 89);
 }
+
+#barra-superior img {
+	width: 300px;
+ }
+
+.img-card {
+	width: 370px;
+}
+
+.img-card02 {
+	width: 1000px;
+}
+
+#logo {
+	width: 300px;
+}
