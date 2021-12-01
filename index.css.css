@@ -191,5 +191,15 @@ hr {
 
 .fontecarousel {
 	     font-family: 'Work Sans', sans-serif;
+	     color: white;
+}
+
+.fontecarousel1 {
+	     font-family: 'Work Sans', sans-serif;
+	     color: rgb(89 , 89 , 89);
+}
+
+.fontecarousel2 {
+	     font-family: 'Work Sans', sans-serif;
 	     color: rgb(89 , 89 , 89);
 }
